@@ -1,0 +1,228 @@
+* {
+    margin: 0;
+    box-sizing: border-box;
+    padding: 0;
+}
+
+body {
+    margin: 0;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    background-image: url(images\ \(1\).png);
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-size: cover;
+    background-position: center;
+}
+
+header {
+    background: linear-gradient(rgb(97, 92, 92), rgb(82, 80, 78));
+    color: whitesmoke;
+    padding: 15px;
+}
+
+.H111 {
+    float: inline-end;
+}
+
+main {
+    margin: 50px;
+}
+
+.first {
+    margin-top: 50px;
+    margin-bottom: 50px;
+    border-right: black;
+    background-color: rgb(245, 97, 43);
+    border-style: none;
+    padding: 70px;
+    color: whitesmoke;
+    border-radius: 60px;
+}
+
+button {
+    padding: 10px;
+    font-size: 16px;
+    color: black;
+    font-style: bold;
+    margin: 20px;
+    background-color: rgb(172, 221, 99);
+    border-style: none;
+    border-radius: 10px;
+}
+
+button:hover {
+    color: whitesmoke;
+}
+
+.H1 {
+    padding: 10px;
+    font-style: bold;
+}
+
+.second {
+    background-color: rgb(255, 255, 255);
+    text-align: center;
+    padding: 40px;
+    font-style: italic;
+}
+
+.H22 {
+    padding: 10px;
+    font-style: bold;
+
+}
+
+.P1 {
+    padding: 10px;
+    font-style: bold;
+}
+
+.HH3 {
+    padding: 10px;
+    font-style: bold;
+}
+
+h6 {
+    padding: 10px;
+    font-style: bold;
+}
+
+.P2 {
+    padding: 10px;
+}
+
+.third {
+    background-color: rgb(255, 255, 255);
+    padding: 20px;
+    text-align: center;
+    color: rgb(240, 160, 56);
+}
+
+.H23 {
+    padding: 10PX;
+    font-style: oblique;
+}
+
+.fourth {
+    display: block;
+    padding: 10px;
+}
+
+.fifth {
+    background-color: rgb(255, 255, 255);
+    padding: 20px;
+    text-align: center;
+}
+
+.H24 {
+    padding: 10px;
+}
+
+.P3 {
+    padding: 10px;
+    margin-bottom: 20px;
+}
+
+.sixth {
+    background-color: rgb(255, 255, 255);
+    padding: 20px;
+    margin-right: 50%;
+    border-right: solid 10px;
+
+}
+
+.H25 {
+    padding: 10px;
+    text-align: center;
+}
+
+.H26 {
+    padding: 10px;
+}
+
+.P4 {
+    padding: 10px;
+    font-size: 14px;
+}
+
+.P5 {
+    padding: 10px;
+    font-size: 14px;
+}
+
+.H27 {
+    text-align: center;
+    padding: 30px;
+}
+
+.seventh {
+    background-color: rgb(51, 46, 46);
+    color: white;
+}
+
+li {
+    margin-left: 100px;
+}
+
+#deposit {
+    margin-left: 80%;
+}
+
+.item1 {
+    padding: 15px;
+}
+
+.item2 {
+    padding: 15px;
+}
+
+.item3 {
+    padding: 15px;
+}
+
+.item4 {
+    padding: 15px;
+}
+
+tr {
+    background-color: white;
+    width: auto;
+    border: solid black 10px;
+    text-align: center;
+    font-style: italic;
+}
+
+th {
+    margin-top: 20px;
+    margin-bottom: 10px;
+    padding: 10px;
+}
+
+.H31 {
+    margin: 40px;
+}
+
+.eighth {
+    background-color: rgb(3, 3, 27);
+    color: whitesmoke;
+    padding: 20px;
+}
+
+.nineth {
+    background-color: rgb(27, 27, 61);
+    color: whitesmoke;
+    text-align: center;
+    font-size: 10px;
+}
+
+h5 {
+    padding: 20px;
+}
+
+.P21 {
+    padding: 20px
+}
+
+.P22 {
+    padding: 20px
+}
